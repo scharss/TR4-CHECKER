@@ -1,0 +1,16 @@
+{
+    "name": "usuario/studio",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\Studio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "scharss"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
