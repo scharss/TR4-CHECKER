@@ -16,4 +16,4 @@
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-user/TR4-AI-Checker.git
+git clone https://github.com/scharss/TR4-CHECKER.git
