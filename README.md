@@ -1,19 +1,19 @@
 # 🌱 TR4 AI Checker
 
-**TR4 AI Checker** es una aplicación web que utiliza inteligencia artificial a través de la API de **OpenAI** para analizar imágenes de plantas de banano y detectar **Fusarium TR4** (Raza Tropical 4), una enfermedad grave que afecta los cultivos de banano.
+**TR4 AI Checker** is a web application that uses artificial intelligence through the **OpenAI** API to analyze images of banana plants and detect **Fusarium TR4** (Tropical Race 4), a serious disease affecting banana crops.
 
-## ⚙️ Características principales
+## ⚙️ Key Features
 
-- **🔍 Análisis basado en IA**: Utiliza la API de OpenAI para analizar imágenes de plantas de banano y detectar síntomas visuales de Fusarium TR4.
-- **📸 Subida de imágenes**: Los usuarios pueden subir imágenes de la planta para recibir un análisis detallado.
-- **💡 Diagnóstico detallado**: La aplicación evalúa la probabilidad de que la planta esté infectada con Fusarium TR4 y proporciona un porcentaje de confianza en el diagnóstico.
-- **🩺 Etapa de la enfermedad**: Indica en qué fase se encuentra la enfermedad (inicial, intermedia o avanzada) según los síntomas detectados.
-- **💻 Interfaz amigable**: La aplicación tiene una interfaz simple y fácil de usar, permitiendo a los usuarios subir imágenes y recibir los resultados en minutos.
-- **🖼️ Formatos de imagen compatibles**: Acepta formatos de imagen **PNG** y **JPEG**.
+- **🔍 AI-based Analysis**: Uses the OpenAI API to analyze images of banana plants and detect visual symptoms of Fusarium TR4.
+- **📸 Image Upload**: Users can upload images of the plant to receive a detailed analysis.
+- **💡 Detailed Diagnosis**: The application evaluates the probability that the plant is infected with Fusarium TR4 and provides a percentage of confidence in the diagnosis.
+- **🩺 Disease Stage**: Indicates which stage the disease is in (initial, intermediate or advanced) based on the symptoms detected.
+- **💻 User-friendly interface**: The app has a simple and easy-to-use interface, allowing users to upload images and receive results within minutes.
+- **🖼️ Supported image formats**: It accepts **PNG** and **JPEG** image formats.
 
-## 🚀 Instalación
+## 🚀 Installation
 
-1. **Clonar el repositorio**:
+1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/tu-usuario/TR4-AI-Checker.git
+```bash
+git clone https://github.com/your-user/TR4-AI-Checker.git
