@@ -1,7 +1,7 @@
 # 🌱 TR4 AI Checker
 
 **TR4 AI Checker** is a web application that uses artificial intelligence through the **OpenAI** API to analyze images of banana plants and detect **Fusarium TR4** (Tropical Race 4), a serious disease affecting banana crops.
-
+In index.php, change the plant name of the prompt of the analyzeImageWithOpenAI function that diagnoses a disease
 ## ⚙️ Key Features
 
 - **🔍 AI-based Analysis**: Uses the OpenAI API to analyze images of banana plants and detect visual symptoms of Fusarium TR4.
